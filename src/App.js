@@ -62,7 +62,6 @@ function App() {
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
-        {name}
         <Canvas name={name} />
       </BodyContainer>
     </div>
