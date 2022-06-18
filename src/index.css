@@ -1,7 +1,7 @@
 body {
   margin: 0;
   color: white;
-  font-family: "Cascadia Code", sans-serif;
+  font-family: "Cascadia Code", 'Verdana', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #404040;
