@@ -19,7 +19,7 @@ const Pixel = ({ title, color, onClick, x, y }) => {
     if (y === 0) {
       return "left";
     }
-    if (y === 9) {
+    if (y === 19) {
       return "right";
     }
     if (x === 0) {
